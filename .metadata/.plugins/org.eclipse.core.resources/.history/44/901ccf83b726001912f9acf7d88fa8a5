@@ -1,0 +1,10 @@
+Feature: Sign in to OrangeHRM
+Scenario: Successful sign in
+Given I open the sign in page
+When I sign in with valid credentials
+Then I should see sign out button once I sign in
+And I should see my name on the landing page
+Then close the browser
+
+
+  

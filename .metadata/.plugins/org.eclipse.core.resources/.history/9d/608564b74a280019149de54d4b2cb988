@@ -1,0 +1,10 @@
+Feature: Sign in to OrangeHRM
+Scenario: Successful sign in
+Given I open the sign in page
+When I sign in with valid credentials
+
+
+Then close the browser
+
+
+  

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OrangeHRM"/>
+	<test name="on chrome"/>
+		<parameter name="Browser" value="chrome"/>
+			<classes>
+				<class name ="com.Grid.OrangeHRM_LoginTest"/>
+			</classes>
+			
+	</test>
+	<test name="on firefox"/>
+		<parameter name="Browser" value="firefox"/>
+			<classes>
+				<class name ="com.Grid.OrangeHRM_LoginTest"/>
+			</classes>
+			
+	</test>
+</suite>		

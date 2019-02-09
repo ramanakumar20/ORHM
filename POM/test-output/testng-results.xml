@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13307" started-at="2019-02-06T05:59:57Z" finished-at="2019-02-06T06:00:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13307" started-at="2019-02-06T05:59:57Z" finished-at="2019-02-06T06:00:10Z">
+      <class name="com.POM.NewTours_HomePage_Testing">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.POM.NewTours_HomePage_Testing@5faeada1]" name="setup" is-config="true" duration-ms="8189" started-at="2019-02-06T05:59:57Z" finished-at="2019-02-06T06:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="homepage()[pri:0, instance:com.POM.NewTours_HomePage_Testing@5faeada1]" name="homepage" duration-ms="5056" started-at="2019-02-06T06:00:05Z" finished-at="2019-02-06T06:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+      </class> <!-- com.POM.NewTours_HomePage_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

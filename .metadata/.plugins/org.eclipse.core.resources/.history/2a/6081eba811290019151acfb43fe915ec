@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OrangeHRM" parallel="tests">
+	<test name="on chrome" >
+		<parameter name="Browser" value="chrome">
+			<classes>
+				<class name ="com.Grid.OrangeHRM-LoginTest"/>
+			</classes>classes>
+		</parameter>	
+	</test>
+</suite>		

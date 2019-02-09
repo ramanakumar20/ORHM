@@ -1,0 +1,10 @@
+Feature: Login to OrangeHRM application
+Scenario: Login test
+Given Open the chrome browser
+When click on submit
+
+
+Then close the browser
+
+
+  
